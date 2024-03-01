@@ -41,7 +41,7 @@ mi_nombre = 'juan carlos perez'
 # In[3]:
 
 
-n_complejo = 5 + 5j
+n_complejo = 5 + 5j 
 
 
 # 6) Mostrar el tipo de dato de la variable crada en el punto 5
